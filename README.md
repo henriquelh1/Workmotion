@@ -9,7 +9,7 @@
 
 - Visual Studio Code
 - Cypress
-- Javascript
+- Typescript
 - Page Object Pattern
 
 
