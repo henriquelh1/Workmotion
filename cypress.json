@@ -1,0 +1,5 @@
+{
+    "integrationFolder": "src/Tests",
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 10000
+  }
